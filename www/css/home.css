@@ -1,0 +1,22 @@
+#home-container {
+    padding: 10px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#header-container{
+    height: 50px;
+}
+
+#login-hdr-text{
+    text-align: left;
+}
+
+#intr-container {
+    height: 200px;
+    text-align: center;
+    background-color: beige;
+}
+
+#main-container{
+    width: 70%;
+}
